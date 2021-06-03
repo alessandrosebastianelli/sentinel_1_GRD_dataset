@@ -14,11 +14,11 @@ Sentinel-1 GRD 256x256 products randomly acquired on the Earth surface
 This dataset was used in:
 - [CNN Speckle Filter](https://github.com/Sebbyraft/CNNSpeckleFilter)
 
-The dataset was created with (please cite this article):
+The dataset was created with (please cite this paper):
 
-  @article{sebastianelli2020automatic,
-    title={Automatic Dataset Builder for Machine Learning Applications to Satellite Imagery},
-    author={Sebastianelli, Alessandro and Del Rosso, Maria Pia and Ullo, Silvia Liberata},
-    journal={arXiv preprint arXiv:2008.01578},
-    year={2020}
-  }
+> @article{sebastianelli2020automatic,
+>   title={Automatic Dataset Builder for Machine Learning Applications to Satellite Imagery},
+>    author={Sebastianelli, Alessandro and Del Rosso, Maria Pia and Ullo, Silvia Liberata},
+>    journal={arXiv preprint arXiv:2008.01578},
+>    year={2020}
+> }
