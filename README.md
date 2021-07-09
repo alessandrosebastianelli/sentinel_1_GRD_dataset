@@ -8,11 +8,6 @@
 - Maria Pia Del Rosso: mariapia.delrosso@gmail.com
 - Silvia Liberata Ullo: ullo@unisannio.it
 
-**Dataset size**:
-- Training: 3189 Sentinel-1 acquisitions
-- Validation: 766 Sentinel-1 acquisitions
-- Testing: 55 Sentinel-1 acquisitions
-
 This dataset was used in:
 - [CNN Speckle Filter](https://github.com/Sebbyraft/CNNSpeckleFilter)
 
