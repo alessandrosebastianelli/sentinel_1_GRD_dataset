@@ -1,5 +1,7 @@
 # Sentinel 1 GRD dataset
-Sentinel-1 GRD 256x256 products randomly acquired on the Earth surface
+
+- folder "dataset": Sentinel-1 GRD 256x256 products randomly acquired on the Earth surface (averaged amplitudes)
+- folder "dataset_v2": Sentinel-1 GRD 256x256 products randomly acquired on the Earth surface (averaged intensities)
 
 **Authors**: 
 - [Alessandro Sebastianelli](https://sebbyraft.github.io): sebastianelli@unisannio.it
