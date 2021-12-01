@@ -13,9 +13,12 @@ This dataset was used in:
 
 The dataset was created with (please cite this paper):
 
-    @inproceedings{sebastianelli2020automatic,
-        title={Automatic Dataset Builder for Machine Learning Applications to Satellite Imagery},
-        author={Sebastianelli, Alessandro and Del Rosso, Maria Pia and Ullo, Silvia Liberata},
-        booktitle={arXiv preprint arXiv:2008.01578},
-        year={2020},
+    @article{sebastianelli2021automatic,
+      title={Automatic dataset builder for Machine Learning applications to satellite imagery},
+      author={Sebastianelli, Alessandro and Del Rosso, Maria Pia and Ullo, Silvia Liberata},
+      journal={SoftwareX},
+      volume={15},
+      pages={100739},
+      year={2021},
+      publisher={Elsevier}
     }
