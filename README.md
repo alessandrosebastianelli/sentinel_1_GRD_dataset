@@ -22,3 +22,12 @@ The dataset was created with (please cite this paper):
       year={2021},
       publisher={Elsevier}
     }
+
+and it is better described in:
+
+    @article{sebastianelli2021sar,
+      title={A SAR speckle filter based on Residual Convolutional Neural Networks},
+      author={Sebastianelli, Alessandro and Del Rosso, Maria Pia and Ullo, Silvia Liberata},
+      journal={arXiv preprint arXiv:2104.09350},
+      year={2021}
+    }
