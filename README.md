@@ -4,7 +4,7 @@
 - folder "dataset_v2": Sentinel-1 GRD 256x256 products randomly acquired on the Earth surface (averaged intensities)
 
 **Authors**: 
-- [Alessandro Sebastianelli](https://sebbyraft.github.io): sebastianelli@unisannio.it
+- [Alessandro Sebastianelli](https://alessandrosebastianelli.github.io/): alessandro.sebastianelli1995@gmail.com
 - Maria Pia Del Rosso: mariapia.delrosso@gmail.com
 - Silvia Liberata Ullo: ullo@unisannio.it
 
